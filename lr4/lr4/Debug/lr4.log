@@ -1,0 +1,7 @@
+﻿  List.cpp
+  Queue.cpp
+  Source.cpp
+D:\Прога с универа\new lr3, 4 testirovanie\lr4\lr4\Source.cpp(21,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  stack.cpp
+  Создание кода...
+  lr4.vcxproj -> D:\Прога с универа\new lr3, 4 testirovanie\lr4\Debug\lr4.exe
